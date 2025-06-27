@@ -39,6 +39,7 @@ void main()
 			printf("\n Invalid input...please type 1 to 4 only");
 	}while(choice!=5);
 }
+
 void push()
 {
 	top++;
